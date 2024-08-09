@@ -1,0 +1,7 @@
+name = "ExperimentsMultithreading"
+uuid = "873c852e-eded-446a-9b62-a8996af811de"
+authors = ["Isaia Nisoli"]
+version = "0.0.1-DEV"
+
+[compat]
+julia = "1.1"
